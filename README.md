@@ -5,12 +5,12 @@ The Student Grade System is a lightweight and beginner-friendly Java application
 Simple Grade Entry – Users can enter any number of student grades.
 
 ## Key Features
-✔️ Real-Time Calculations
-✔️Average grade
-✔️Highest grade
-✔️Lowest grade
-✔️ Error-Free Input – Validates grade entries to avoid invalid inputs.
-✔️ Clean Console Interface – A clear and interactive text-based UI for smooth usage.
+✔️ Real-Time Calculations.
+✔️Average grade.
+✔️Highest grade.
+✔️Lowest grade.
+✔️ Error-Free Input.
+✔️ Clean Console Interface.
 
 ## Future Improvements
 🔹Add student names linked to each grade.
